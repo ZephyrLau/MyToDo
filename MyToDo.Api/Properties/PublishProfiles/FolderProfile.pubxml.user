@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\项目\MyToDo\MyToDo.Api\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2022-03-29T00:10:31.6421254Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ToDoConnection">
+      <Value>Data Source=to.db</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
